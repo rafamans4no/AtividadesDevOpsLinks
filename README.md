@@ -25,12 +25,12 @@ As atividades estão organizadas de acordo com cada aula:
 
 | Aula | Conteúdo | Atividade |
 |------|----------|-----------|
-| 📘 Aula 01 | Introdução ao DevOps | [Acessar atividade](./Aula01/README.md) |
-| 📘 Aula 02 | Conceitos e práticas DevOps | [Acessar atividade](./Aula02/README.md) |
-| 📘 Aula 03 | Integração Contínua | [Acessar atividade](./Aula03/README.md) |
-| 📘 Aula 04 | Ferramentas de Integração e Entrega Contínua | [Acessar atividade](./Aula04/README.md) |
-| 📘 Aula 05 | Pipeline de Integração Contínua | [Acessar atividade](./Aula05/README.md) |
-| 📘 Aula 06 | Revisão Ferramentas e Pipelines | [Acessar atividade](./Aula06/README.md) |
+| 📘 Aula 01 | Introdução ao DevOps | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%201%20-%20Aula%201) |
+| 📘 Aula 02 | Conceitos e práticas DevOps | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%202%20-%20Aula%202%20) |
+| 📘 Aula 03 | Integração Contínua | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%203%20-%20Aula%203) |
+| 📘 Aula 04 | Ferramentas de Integração e Entrega Contínua | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%204%20-%20Aula%204) |
+| 📘 Aula 05 | Pipeline de Integração Contínua | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%205%20-%20Aula%205) |
+| 📘 Aula 06 | Revisão Ferramentas e Pipelines | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%206%20-%20Aula%206) |
 
 > 💡 A organização do repositório será atualizada conforme novas aulas e atividades forem realizadas.
 
@@ -62,6 +62,6 @@ O repositório também serve como forma de acompanhar minha evolução durante a
 
 📚 Estudante de Tecnologia da Informação
 
---
+---
 
 ⭐ Repositório desenvolvido para fins acadêmicos durante a disciplina de **Integração Contínua e DevOps**.
