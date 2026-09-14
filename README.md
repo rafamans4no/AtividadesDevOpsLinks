@@ -1,4 +1,4 @@
-# # 🚀 Atividades — Integração Contínua e DevOps
+# 🚀 Atividades — Integração Contínua e DevOps
 
 Repositório destinado ao armazenamento das atividades, exercícios e projetos desenvolvidos durante as aulas da disciplina de **Integração Contínua e DevOps**.
 
@@ -29,7 +29,8 @@ As atividades estão organizadas de acordo com cada aula:
 | 📘 Aula 02 | Conceitos e práticas DevOps | [Acessar atividade](./Aula02/README.md) |
 | 📘 Aula 03 | Integração Contínua | [Acessar atividade](./Aula03/README.md) |
 | 📘 Aula 04 | Ferramentas de Integração e Entrega Contínua | [Acessar atividade](./Aula04/README.md) |
-| 📘 Aula 05 | Em desenvolvimento | [Acessar atividade](./Aula05/README.md) |
+| 📘 Aula 05 | Pipeline de Integração Contínua | [Acessar atividade](./Aula05/README.md) |
+| 📘 Aula 06 | Revisão Ferramentas e Pipelines | [Acessar atividade](./Aula06/README.md) |
 
 > 💡 A organização do repositório será atualizada conforme novas aulas e atividades forem realizadas.
 
@@ -61,6 +62,6 @@ O repositório também serve como forma de acompanhar minha evolução durante a
 
 📚 Estudante de Tecnologia da Informação
 
----
+--
 
 ⭐ Repositório desenvolvido para fins acadêmicos durante a disciplina de **Integração Contínua e DevOps**.
