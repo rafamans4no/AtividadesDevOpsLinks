@@ -31,6 +31,7 @@ As atividades estão organizadas de acordo com cada aula:
 | 📘 Aula 04 | Ferramentas de Integração e Entrega Contínua | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%204%20-%20Aula%204) |
 | 📘 Aula 05 | Pipeline de Integração Contínua | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%205%20-%20Aula%205) |
 | 📘 Aula 06 | Revisão Ferramentas e Pipelines | [Acessar atividade](https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%206%20-%20Aula%206) |
+| 📘 Aula 07 | Testes Automatizados | [Acessar atividade]([https://github.com/rafamans4no/AtividadesDevOpsLinks/tree/main/Atividade%206%20-%20Aula%206](https://github.com/nicollylemos/Atividade07DevOps?classId=5aed53b5-0fe7-48a3-a344-3d44b238d22a&assignmentId=59552c63-7dfa-4411-bd05-e993ae30ea6d&submissionId=647b03ea-2dd3-488b-5a55-a105ea9cd416) |
 
 > 💡 A organização do repositório será atualizada conforme novas aulas e atividades forem realizadas.
 
